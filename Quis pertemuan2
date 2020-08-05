@@ -1,0 +1,110 @@
+Jawab:
+
+1.The Building Blocks
+
+ The Building blocks adalah halaman cover,header,footer,text box, dan watermark,dan bisa menambahkan desain sendiri.ada beberapa pemograman website untuk Building Blocks yaitu:
+
+* HTML dan CSS
+
+HTML dan CSS merupakan pemograman yang paling utama dan mudah untuk belajara membuat pengembangan website.dan selain itu ada beberapa istilah dari HTML dan CSS sebagai berikut:
+
+1. HTML merupakan singkatan dari Hyper text markup language,pemograman yang standar untuk pembuatan halaman web.ada beberapa dasar HTML yaitu:
+
+- Tag sebagai pembuka Contoh: <p>
+
+- Tag sebagai penutup Contoh : </p>
+
+- Element sebagai isi di antara Tag pembuka dan Tag penutup
+
+- Atribut sebagai informasi tambahan yg diberikan pada Tag, atribut berupa intruksi warna dan text. 
+
+2.CSS
+
+CSS merupakan singkatan dari Cascading Style Sheets,secara istilah CSS adalah bahasa penulisan untuk mendeskripsikan penampilan sebuah dokumen markup. dan ada beberapa pada CSS sebagai berikut:
+
+-Fundamental CSS terdapat beberapa bagian yaitu: color, font,posingtioning,dan box model. 
+
+-CSS Grid atau layout grid terdapat di sebuah elemen dan property untuk mengatur jarak antar elemen dan grid-gap.
+
+-CSS Flexbox untuk membuat Layout dan memungkinan untuk halaman web.
+
+-CSS Transition adalah efek Transisi sebuah elemen yang secara bertahap berubah dari satu gaya ke lainya. 
+
+
+
+* Responsive Design
+
+ Responsive Design adalah suatu keadaan sebuah halaman web dimana tampilannya akan cocok, rapi dan akan tetap enak dilihat.Secara mendasar Responsive Design dikembangkan melalui kode-kode CSS seperti berikut:
+
+@media(min-width:992px) {
+
+         .selector  {
+
+               width:970px;
+
+      }
+
+}
+
+Selain itu ada beberapa yang perlu diketahui sebagai berikut:
+
+-Viewport,Media Queries,Fluid Width
+
+-Sass adalah CSS Preprocessor,yang memiliki fitur variabel, neting dan conditional yang di gunakan untuk mengoptimalkan CSS pada Website. 
+
+
+
+* CSS Framework
+
+CSS Framework adalah pustaka css yang dimana sudah dibuat dan siap untuk digunakan.CSS Framework di gunakan untuk membuat proses design website.ada beberapa yang sering di gunakan CSS Framework untuk design sebagai berikut:
+
+-Bulma adalah CSS Framework Modern berbasis Flexbox Open Source. 
+
+-Bootstrap adalah kerangka kerja CSS untuk merancang situs web dan aplikasi web. 
+
+-Materialize adalah kerangka kerja seperti Bootstrap dimana framework khusus untuk frontend yang terdiri dari HTML,CSS,dan Javascript
+
+-Tailwind CSS adalah sebuah Framework CSS yang sedang hyoe di kalangan web developer.
+
+
+
+* Vanilla Javascript
+
+Vanilla Javascript itu hanylah sebuah istilah term/penggunaan bahasa bila kita menggunakan bahasa javascript hanya bermodal plain javascript tanpa menggunakan Third Party.Dan Javascript adalah bahasa pemograman tingkat tinggi dan dinamis.ada beberapa istilah yang perlu di ketahui:
+
+-Dasar Javascript terdapat 4 dasar yaitu: Variabel, Data Types, Functions,dan Conditionals. 
+
+-DOM singkatan dari Document Object Model yang berrti sebuah antarmuka untuk pemograman HTML,XML,dan,SVG.
+
+-JSON singkatan dari Javascript Object Notation sebuah format pertukaran data yang ringan.
+
+-Fetc Api merupakan fungsi dasar untuk meminta sumber daya melalui jaringan. 
+
+
+
+* Other Help Tools
+
+Setelah kita mempelajari alat-alat pembuatan web selain alat-alat tersebut kita bisa menggunakan alat lainnya untuk membuat web selanjutnya ada beberapa pengembangan yang baik untuk membantu web termasuk web developer yaitu:
+
+-Browser Dev Tools salah satu alat pengembangan web
+
+- NPM or Yarn adalah dua pengelola paket Javascript yang terkenal. 
+
+-Github/Gitlab merupakan sebuat manajer Repositori Git berbasis web dengan fitur wiki. 
+
+- merupakan editor teks cross-platform yang tersedia bagi sistem operasi Windows, Linux, maupun OS X.
+
+
+
+* Basic Deployment
+
+Setelah pembuat web pasti kita membuntuhkan Basic Deployment agar web kita bisa di akses oleh semuah orang melalui internet.dan ada beberapa istilah yang perlu kalian ketahui yaitu :
+
+- SSL Certificate adalah sebuah file data yang bekerja secara digital
+
+-Static Hosting sebuah website yang kontennya statis / tidak berubah-ubah.
+
+- Hosting adalah sebagai tempat/media untyk meletakan file website seperti gambar,video,script,website serta data base.
+
+-Domain adalah nama alamat dari bangunan atau website.
+
